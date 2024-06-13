@@ -1,6 +1,6 @@
-#Enunciado
+#Enunciado#
 
-##Instruções:
+##Instruções:##
 * Utilizando os conhecimentos adquiridos até o momento sobre HTML e CSS, crie uma página web que exiba uma galeria de fotos.
 * As imagens devem ser carregadas dentro da galeria utilizando as tags <img>.   
 * Utilize Flexbox para organizar e alinhar as imagens dentro da galeria.
